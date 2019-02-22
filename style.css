@@ -22,6 +22,9 @@ h5 {
 .nav-item a.nav-link:hover {
 	color: #28a745!important;
 }
+.navbar .nav-item a.active {
+	color: #28a745!important;
+}
 .time {
 	vertical-align: top;
 	font-weight: bold;

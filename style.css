@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700,900&subset=latin-ext');
-*{
-	box-sizing: content-box;
-}
 body {
 	font-family: 'Raleway', sans-serif;
 }
@@ -32,10 +29,46 @@ h5 {
 	vertical-align: top;
 	font-weight: bold;
 }
+.btn { 
+	padding: 0.4rem 1.4rem; 
+	border-radius: 30px; 
+}
 
 table tr {
 	margin: 10em!important;
 }
-.supporter {
-	padding-top: 0.3em;
+.about-us p {
+	font-size: 1.1em;
 }
+.supporter {
+	padding: 1em;
+	max-width: 230px;
+}
+.social {
+	margin-top: 1em;
+}
+.social a {
+	color: #b9b9b9;
+	font-size:1.2em;
+}
+.social a:not(:first-child) {
+	margin-left:0.5em;
+	}
+
+.social a:hover {
+	opacity: 0.5;
+}
+
+.speakers {
+	margin: 3em 0;
+}
+.speakers img {
+	max-width: 200px;
+}
+.abstract p {
+	margin-bottom: 1.5em;
+}
+.address {
+	margin-bottom: 3em;
+}
+

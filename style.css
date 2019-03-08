@@ -15,6 +15,9 @@ h4 {
 h5 {
 	padding-bottom: 1em;
 }
+.navbar {
+	margin-top: 1em;
+}
 .navbar .nav-item a {
 	color: #343a40!important;
 	font-weight: bold;

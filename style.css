@@ -74,4 +74,17 @@ table tr {
 .address {
 	margin-bottom: 3em;
 }
-
+.link a {
+color: #28a745!important;
+}
+.link a:hover {
+	color: #1D5933!important;
+	text-decoration:none;
+}
+.golden-supporter {
+	max-width: 230px;
+	padding: 1em 0;
+}
+.platinum-header {
+	margin-top: 2em;
+}

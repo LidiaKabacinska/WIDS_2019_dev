@@ -88,3 +88,7 @@ color: #28a745!important;
 .platinum-header {
 	margin-top: 2em;
 }
+.map:hover{
+opacity: 0.7;
+cursor: pointer;
+}

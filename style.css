@@ -61,7 +61,10 @@ table tr {
 .social a:hover {
 	opacity: 0.5;
 }
-
+.name {
+	font-weight: bold;
+	margin-top: 1.5em;
+}
 .speakers {
 	margin: 3em 0;
 }
@@ -80,6 +83,9 @@ color: #28a745!important;
 .link a:hover {
 	color: #1D5933!important;
 	text-decoration:none;
+}
+.golden {
+	padding-top: 1.5em;
 }
 .golden-supporter {
 	max-width: 230px;
